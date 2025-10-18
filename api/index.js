@@ -1,3 +1,4 @@
+export const config = { runtime: 'edge' };
 // 转发铺王网找店接口
 const axios = require('axios');
 
